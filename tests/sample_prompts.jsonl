@@ -1,0 +1,20 @@
+{"prompt": "Explain quantum computing in simple terms that a high school student would understand.", "category": "reasoning", "difficulty": "easy"}
+{"prompt": "Write a step-by-step plan for launching a small e-commerce business selling handmade jewelry.", "category": "planning", "difficulty": "medium"}
+{"prompt": "Compare and contrast the advantages and disadvantages of remote work versus office work for software engineers.", "category": "reasoning", "difficulty": "medium"}
+{"prompt": "Write a Python function that implements a binary search algorithm and explain its time complexity.", "category": "code_generation", "difficulty": "easy"}
+{"prompt": "Create a 7-day meal plan for a vegetarian athlete trying to build muscle, including approximate protein counts.", "category": "planning", "difficulty": "medium"}
+{"prompt": "Explain the concept of supply and demand with real-world examples from the housing market.", "category": "reasoning", "difficulty": "easy"}
+{"prompt": "Write a professional email declining a job offer while maintaining a positive relationship with the company.", "category": "writing", "difficulty": "easy"}
+{"prompt": "Design a database schema for a library management system that tracks books, members, loans, and fines.", "category": "code_generation", "difficulty": "hard"}
+{"prompt": "Analyze the potential impacts of artificial intelligence on the healthcare industry over the next decade.", "category": "reasoning", "difficulty": "hard"}
+{"prompt": "Write a persuasive argument for why cities should invest more in public transportation infrastructure.", "category": "writing", "difficulty": "medium"}
+{"prompt": "Create a detailed project plan for building a mobile app that helps users track their daily water intake.", "category": "planning", "difficulty": "medium"}
+{"prompt": "Explain how HTTPS works and why it is important for web security.", "category": "reasoning", "difficulty": "medium"}
+{"prompt": "Write unit tests for a function that calculates the factorial of a number, including edge cases.", "category": "code_generation", "difficulty": "medium"}
+{"prompt": "Summarize the key differences between machine learning, deep learning, and artificial intelligence.", "category": "reasoning", "difficulty": "easy"}
+{"prompt": "Draft a social media marketing strategy for a new coffee shop opening in a competitive urban area.", "category": "planning", "difficulty": "hard"}
+{"prompt": "Explain the CAP theorem in distributed systems and give an example of each type of system.", "category": "reasoning", "difficulty": "hard"}
+{"prompt": "Write a shell script that backs up a directory to a timestamped tar.gz archive.", "category": "code_generation", "difficulty": "easy"}
+{"prompt": "Create a rubric for evaluating the quality of code reviews in a software team.", "category": "planning", "difficulty": "medium"}
+{"prompt": "Explain the concept of time value of money and how it applies to personal financial planning.", "category": "reasoning", "difficulty": "medium"}
+{"prompt": "Write a concise technical blog post explaining containerization with Docker vs virtual machines.", "category": "writing", "difficulty": "medium"}
